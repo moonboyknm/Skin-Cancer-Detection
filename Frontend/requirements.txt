@@ -1,0 +1,5 @@
+streamlit
+Pillow
+requests
+tensorflow==2.12.0
+numpy
