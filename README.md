@@ -6,6 +6,8 @@ A deep learning-based web application for skin cancer classification, developed 
 
 This application leverages deep learning models to analyze skin lesion images and classify them into different categories, potentially helping in early skin cancer detection. The project features a user-friendly web interface built with Streamlit.
 
+![Demo Video](Frontend/demo.gif)
+
 ## ✨ Features
 
 - **Image Classification**: Upload skin lesion images for automated analysis
